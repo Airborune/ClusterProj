@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+.idea/
+results/
+docs/
+current_code_snapshot.md
+pipeline_full_*.md
+*.pyc
